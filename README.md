@@ -1,0 +1,1 @@
+To properly view the files in this repo the <a href="https://obsidian.md">Obsidian</a> desktop app is needed. Download the repo on your local computer and open the folder as vault through the Obsidian app
